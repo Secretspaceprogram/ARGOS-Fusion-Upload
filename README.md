@@ -1,6 +1,6 @@
 ## ARGOS - FUSION
 
-Script for automating reporting with ARGOS and Fusion. This script will upload findings from an ARGGOS scan output. It will generate a description, group affected assets, and will put a dummy reference in. 
+Script for automating reporting with ARGOS and Fusion. This script will upload findings from an ARGOS scan output. It will generate a description, group affected assets, and will put a dummy reference in. 
 
 
 1. Once you have completed your ARGOS scan, download the CSV and run this script with the CSV and fusion session token as arguements.
